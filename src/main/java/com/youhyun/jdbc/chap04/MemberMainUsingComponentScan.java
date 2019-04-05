@@ -20,7 +20,7 @@ public class MemberMainUsingComponentScan {
 		
 		// registerRequest 초기화
 		RegisterRequest req = new RegisterRequest();
-		req.setEmail("h3051710@naver.com");
+		req.setEmail("h3051710@naver.com");	
 		req.setPassword("youhyun");
 		req.setName("youhyun");
 
